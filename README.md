@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jonn Dwyene Cadapan
+![Banner](https://img.shields.io/badge/Welcome_to_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <!--
 **jonndwyene/jonndwyene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
